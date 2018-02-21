@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>books_manage</label>
+		<id>3</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>books_manage.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>books_manage.jcp</path>
+		</project>
+	</projects>
+</workspace>
